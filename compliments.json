@@ -1,5 +1,5 @@
-compliments: {
-    anytime: [
+{
+    "anytime": [
         "Hello, gorgeous.",
         "You look fantastic today!",
         "What a lovely smile!",
@@ -10,14 +10,14 @@ compliments: {
         "Hello there, good looking!",
         "You're glowing."
     ],
-    morning: [
+    "morning": [
         "Good morning, sunshine!",
         "Have a wonderful day!",
         "You look well-rested.",
         "Ready to conquer the day!",
         "Looking fresh this morning!"
     ],
-    afternoon: [
+    "afternoon": [
         "Hello, beautiful.",
         "Looking great!",
         "You're a ray of sunshine.",
@@ -25,7 +25,7 @@ compliments: {
         "Keep up the great work today!",
         "That look really suits you."
     ],
-    evening: [
+    "evening": [
         "Wow, you look amazing.",
         "Looking elegant tonight.",
         "Time to relax and unwind.",

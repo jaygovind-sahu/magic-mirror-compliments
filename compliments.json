@@ -1,0 +1,38 @@
+compliments: {
+    anytime: [
+        "Hello, gorgeous.",
+        "You look fantastic today!",
+        "What a lovely smile!",
+        "You're looking sharp.",
+        "You are radiant.",
+        "That color looks great on you.",
+
+        "Hello there, good looking!",
+        "You're glowing."
+    ],
+    morning: [
+        "Good morning, sunshine!",
+        "Have a wonderful day!",
+        "You look well-rested.",
+        "Ready to conquer the day!",
+        "Looking fresh this morning!"
+    ],
+    afternoon: [
+        "Hello, beautiful.",
+        "Looking great!",
+        "You're a ray of sunshine.",
+        "You look stunning.",
+        "Keep up the great work today!",
+        "That look really suits you."
+    ],
+    evening: [
+        "Wow, you look amazing.",
+        "Looking elegant tonight.",
+        "Time to relax and unwind.",
+        "You look very nice.",
+        "Dazzling!"
+    ],
+    "....-12-25": ["Merry Christmas!", "You're looking festive!"],
+    "....-10-31": ["Looking spooky!", "Happy Halloween!"],
+    "....-02-14": ["Happy Valentine's Day!", "Hello, you charmer."]
+}

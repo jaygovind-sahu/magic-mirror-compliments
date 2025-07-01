@@ -1,34 +1,73 @@
 {
-    "anytime": [
-        "Hello, gorgeous.",
-        "You look fantastic today!",
-        "What a lovely smile!",
-        "You're looking sharp.",
-        "You are radiant.",
-        "Hello there, good looking!",
-        "You're glowing."
-    ],
-    "morning": [
-        "Good morning, sunshine!",
-        "Have a wonderful day!",
-        "You look well-rested.",
-        "Ready to conquer the day!",
-        "Looking fresh this morning!"
-    ],
-    "afternoon": [
-        "Looking great!",
-        "You're a ray of sunshine.",
-        "You look stunning.",
-        "Keep up the great work today!",
-        "That look really suits you."
-    ],
-    "evening": [
-        "Wow, you look amazing.",
-        "Looking elegant tonight.",
-        "Time to relax and unwind.",
-        "You look very nice."
-    ],
-    "....-12-25": ["Merry Christmas!", "You're looking festive!"],
-    "....-10-31": ["Looking spooky!", "Happy Halloween!"],
-    "....-02-14": ["Happy Valentine's Day!", "Hello, you charmer."]
+  "anytime": [
+    "Hello, gorgeous.",
+    "You look fantastic today!",
+    "What a lovely smile!",
+    "You're looking sharp.",
+    "You are radiant.",
+    "Hello there, good looking!",
+    "You're glowing.",
+    "You have a wonderful energy.",
+    "Your style is on point.",
+    "You absolutely shine.",
+    "Looking cool and confident.",
+    "You have a fantastic aura.",
+    "That look is a winner.",
+    "You are simply fantastic."
+  ],
+  "morning": [
+    "Good morning, sunshine!",
+    "Have a wonderful day!",
+    "You look well-rested.",
+    "Ready to conquer the day!",
+    "Looking fresh this morning!",
+    "Seize the day looking great!",
+    "Your energy is contagious.",
+    "You're starting the day right.",
+    "Looking bright and ready.",
+    "Today is yours to own."
+  ],
+  "afternoon": [
+    "Looking great!",
+    "You're a ray of sunshine.",
+    "You look stunning.",
+    "Keep up the great work today!",
+    "That look really suits you.",
+    "Shining bright this afternoon.",
+    "You have such a great vibe.",
+    "Looking poised and powerful.",
+    "You are a true inspiration.",
+    "Your confidence is showing."
+  ],
+  "evening": [
+    "Wow, you look amazing.",
+    "Looking elegant tonight.",
+    "Time to relax and unwind.",
+    "You look very nice.",
+    "You look so put-together.",
+    "Ready for a great evening.",
+    "You wear that look well.",
+    "Wishing you a peaceful night.",
+    "You look incredible this evening."
+  ],
+  "....-12-25": [
+    "Merry Christmas!",
+    "You're looking festive!"
+  ],
+  "....-12-31": [
+    "Happy New Year's Eve!",
+    "Looking festive for the new year!"
+  ],
+  "....-01-01": [
+    "Happy New Year!",
+    "Cheers to a stylish new year!"
+  ],
+  "....-10-31": [
+    "Looking spooky!",
+    "Happy Halloween!"
+  ],
+  "....-02-14": [
+    "Happy Valentine's Day!",
+    "Hello, you charmer."
+  ]
 }

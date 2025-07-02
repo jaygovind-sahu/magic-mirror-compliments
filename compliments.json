@@ -69,5 +69,85 @@
   "....-02-14": [
     "Happy Valentine's Day!",
     "Hello, you charmer."
+  ],
+  "day_sunny": [
+    "You're shining brighter than the sun!",
+    "Looking as bright as today!",
+    "Hello, sunshine!"
+  ],
+  "day_cloudy": [
+    "You are your own sunshine.",
+    "Bringing brightness to a cloudy day.",
+    "Your smile clears the clouds."
+  ],
+  "cloudy": [
+    "Looking great despite the clouds.",
+    "You're the highlight of the day.",
+    "Your look is far from gloomy."
+  ],
+  "cloudy_windy": [
+    "Your style is blowing me away.",
+    "Looking great, even with the wind.",
+    "You've got a powerful presence."
+  ],
+  "showers": [
+    "A little rain can't dim your shine.",
+    "You're looking fresh as rain.",
+    "Looking sharp, rain or shine."
+  ],
+  "rain": [
+    "You look cozy and stylish.",
+    "You're a rainbow on a rainy day.",
+    "Don't let the rain stop you."
+  ],
+  "thunderstorm": [
+    "You're making a striking impression.",
+    "Looking electric today!",
+    "Your power outshines the storm."
+  ],
+  "snow": [
+    "You're looking cool and unique.",
+    "Your smile warms up the day.",
+    "Looking flawless like a snowflake."
+  ],
+  "fog": [
+    "Your look is clear and stunning.",
+    "Cutting through the fog with style.",
+    "There's no mistaking your charm."
+  ],
+  "night_clear": [
+    "You shine like the stars.",
+    "Looking brilliant under the moonlight.",
+    "A truly stellar appearance."
+  ],
+  "night_cloudy": [
+    "You're the brightest star tonight.",
+    "Even the clouds can't hide your glow.",
+    "Looking luminous this evening."
+  ],
+  "night_showers": [
+    "You're glowing, even in the rain.",
+    "A perfect look for a cozy night.",
+    "Let your brilliance shine through."
+  ],
+  "night_rain": [
+    "You look amazing this rainy night.",
+    "Stay cozy and look great.",
+    "Your style is a shelter from the storm."
+  ],
+  "night_thunderstorm": [
+    "Your look is powerfully captivating.",
+    "Looking dazzling this stormy night.",
+    "You bring the thunder."
+  ],
+  "night_snow": [
+    "Looking magical in the snow.",
+    "You're a winter wonderland vision.",
+    "Cozy and chic for a snowy night."
+  ],
+  "night_alt_cloudy_windy": [
+    "Your style is a force of nature.",
+    "A captivating look for a wild night.",
+    "You look incredible tonight."
   ]
 }
